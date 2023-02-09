@@ -1,0 +1,1 @@
+- Fixed the player not getting merchants' caps after robbing them nor removing theirs

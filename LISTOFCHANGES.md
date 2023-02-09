@@ -24,7 +24,7 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Added a Mechanic who can repair your stuff near the garage
  - Added 4 new guards who patrol the area
  - Ranger Andy can be seen roaming around outside
- - No-Bark Noonan actually has Ol' Sticky, and pulls it out when he threatens you
+ - No-bark Noonan actually has Ol' Sticky, and pulls it out when he threatens you
 
  NCRCF & GOODSPRINGS
  - Doc Mitchell wears the Wasteland Doctor Outfit

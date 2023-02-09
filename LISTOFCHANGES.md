@@ -8,6 +8,7 @@ Alexander has less stock, and his guard has Combat Armor
 Major Dhatri stays still (Taken from Major Dhatri Doesn't Wander﻿)
 
 ADDITIONS AND CHANGES BY LOCATION:
+ 
  PRIMM
   - When you enter Primm, some Convicts will try to cross the bridge and attack the NCR
   - The section of houses will have convicts around them and dead Primm residents, which will likely draw players' attention

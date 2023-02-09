@@ -1,7 +1,7 @@
 ARMOR/CLOTHING:
-Great Khan Armors have fingerless gloves
-Companion clothing is now playable and is slightly buffed (Taken from Playable Companion Clothing﻿)
-The Fedora is now playable
+- Great Khan Armors have fingerless gloves
+- Companion clothing is now playable and is slightly buffed (Taken from Playable Companion Clothing﻿)
+- The Fedora is now playable
 
 NPC CHANGES:
 - Alexander has less stock, and his guard has Combat Armor

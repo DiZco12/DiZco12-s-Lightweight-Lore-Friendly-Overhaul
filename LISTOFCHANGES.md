@@ -55,6 +55,6 @@ QUEST CHANGES:
 
 OTHER:
 - Collectible Mojave Express hats which nets you a nice 1500 XP gain if you find all of them
-- Ice Cold Nuka-Cola is worth 10 caps more than regular bottles
+- Ice Cold Nuka-Cola is worth 15 caps more than regular bottles
 - All messages declaring someone has died are moved to the upper-left corner instead of interrupting gameplay
 - Renamed Terrifying Presence to Intimidation and now you can rob traveling caravans

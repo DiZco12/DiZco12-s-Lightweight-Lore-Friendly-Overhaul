@@ -33,7 +33,7 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Eddie doesn't somehow have a plasma pistol
 
  THE STRIP
- - All Casinos' cashier rooms can now be robbed for caps and have guards outside, the keys can be found on the appropriate people
+ - Every Casino's cashier room can now be robbed for caps and have guards outside, the keys can be found on the appropriate people
  - Raised all Casino max winnings by 5000
  - Restored the 2 NCR Trooper sunbathers on the top of the embassy
  - Every Casino and the Lucky 38 Suite have Currency Converters inside
@@ -44,10 +44,12 @@ ADDITIONS AND CHANGES BY LOCATION:
  - The Nevada Highway Patrol Station has a Terminal and Police Pistol
  - Cook-Cook is not a pushover anymore and his dogs aren't either
  - Julie Farkas doesn't go silent after saying goodbye
+ - Members of 1st Recon wear 1st Recon armors and use custom-made scoped Hunting Rifles
 
 WEAPONS:
  - Police Assault Rifle
  - Service Knife
+ - 1st Recon Hunting Rifle
 
 QUEST CHANGES:
  YOUNG HEARTS

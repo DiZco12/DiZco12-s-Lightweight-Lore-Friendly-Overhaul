@@ -1,4 +1,4 @@
-As shown by the size of the .esp alone, this mod is pretty big. All changes will be documented soon, but here's a basic summary:
+As shown by the size of the .esp alone, this mod is pretty huge. All changes are documented in LISTOFCHANGES.md, but here's a basic summary:
 
 - Adds and restores new items
 - Adds new things to discover and interact with in existing locations

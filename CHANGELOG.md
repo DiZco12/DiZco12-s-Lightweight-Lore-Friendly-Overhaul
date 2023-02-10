@@ -9,3 +9,6 @@ Alpha 0.1.1.1
 Alpha 0.1.2
 
 - The Nipton Rest Stop's stash doesn't only have 1 item in it
+- Removed some overwrites that weren't supposed to be there
+- Added more ONAMs
+- Carried over some TTW/YUP changes

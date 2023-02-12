@@ -33,3 +33,4 @@ Alpha 0.1.3
 - Lieutenant Monroe heads to Camp Mccarran after Boulder City Showdown
 - Kathleen isn't mysteriously a part of the NCR
 - Removed the Service Knife, it was useless
+- The medicine check in Restoring Hope when talking to Doctor Alex isn't stupidly easy and now requires 50 Medicine skill

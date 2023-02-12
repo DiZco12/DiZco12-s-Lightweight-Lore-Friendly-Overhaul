@@ -56,12 +56,11 @@ ADDITIONS AND CHANGES BY LOCATION:
 
 WEAPONS:
  - Police Assault Rifle
- - Service Knife
  - 1st Recon Hunting Rifle
 
 QUEST CHANGES:
  YOUNG HEARTS
-  - Janet's name is Caravanner before you find her identity, and the quest marker pointing to her has been removed
+  - Janet's name is Caravaneer before you find her identity, and the quest marker pointing to her has been removed
 
 OTHER:
 - Collectible Mojave Express hats which nets you a nice 1500 XP gain if you find all of them

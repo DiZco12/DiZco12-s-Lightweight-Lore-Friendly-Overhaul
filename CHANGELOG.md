@@ -28,4 +28,8 @@ Alpha 0.1.3
 - Chris Haversam won't just run away from you when you tell him you sabatoged the rockets
 - Dixon actually uses his Varmint Rifle
 - Added a challenge for killing all major Fiend leaders
-- Chris Haversam gets his own hotel room after moving to Novac
+- Chris Haversam gets his own hotel room after moving to Novac and is added to their faction
+- Hector can't comment on Sweetie, that's just weird
+- Lieutenant Monroe heads to Camp Mccarran after Boulder City Showdown
+- Kathleen isn't mysteriously a part of the NCR
+- Removed the Service Knife, it was useless

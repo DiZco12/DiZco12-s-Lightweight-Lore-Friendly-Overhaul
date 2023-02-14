@@ -39,3 +39,8 @@ Alpha 0.1.3
 - Noticing Orris fired 3 shots instead of 4 is a Perception check, not an Intelligence check
 - You can take back NCRCF without going through the hoops of helping Eddie first
 - Chomps Lewis gets sent to Camp Forlorn Hope when he gets arrested in "Don't Make A Beggar Of Me"
+- Tyrone's strength check to threaten him in "Don't Make A Beggar Of Me" is now a Terrifying Presence/Intimidation Check
+- Nero & Big Sal are aggressive
+- Nero has the Gomorrah safe room key, forgot about him for some reason
+- Henry's speech check to use your NCR rep to discredit him now have [NCR], as they should
+- Henry exists at the wrangler to begin with

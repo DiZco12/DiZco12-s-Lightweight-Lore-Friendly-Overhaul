@@ -16,7 +16,7 @@ ADDITIONS AND CHANGES BY LOCATION:
  - One of the houses has a unfortunate scene
  - Not every dead body in Nipton has the same face anymore, and they are now named Nipton Residents
  - Not every Legionary looks the same
- - The Nipton Pit Stop Ambush now has the previous victims nearby; the boss also has a .44 magnum
+ - The Nipton Pit Stop Ambush has the previous victims nearby; the boss also has a .44 magnum
 
  NOVAC
  - Added a Mechanic who can repair your stuff near the garage
@@ -33,12 +33,13 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Sergeant Lee sticks around after you help him in the siege
 
  THE STRIP
- - Every Casino's cashier room can now be robbed for caps and have guards outside, the keys can be found on the appropriate people
+ - Every Casino's cashier room can be robbed for caps and have guards outside, the keys can be found on the appropriate people
  - Raised all Casino max winnings by 5000
  - Restored the 2 NCR Trooper sunbathers on the top of the embassy
  - Every Casino and the Lucky 38 Suite have Currency Converters inside
  - Benny isn't a little bitch and will attack you if you shoot at the chairmen
  - The Ultra-Luxe assassin actually has a voice and wears a suit
+ - Nero & Big Sal are aggressive
  
  FREESIDE AND OUTER NEW VEGAS
  - The Greasers in the North Vegas Sewers wear greaser jackets
@@ -65,7 +66,7 @@ QUEST CHANGES:
   - Janet's name is Caravaneer before you find her identity, and the quest marker pointing to her has been removed
  
  RESTORING HOPE
-  - The medicine check when talking to Doctor Alex isn't stupidly easy and now requires 50 Medicine skill
+  - The medicine check when talking to Doctor Alex isn't stupidly easy and requires 50 Medicine skill
   
  I FOUGHT THE LAW
   - You can take back NCRCF from the Powder Gangers without going through the hoops of helping Eddie first
@@ -73,13 +74,18 @@ QUEST CHANGES:
  DON'T MAKE A BEGGAR OF ME
   - Chomps Lewis gets sent to Camp Forlorn Hope when he gets arrested
   - Tyrone doesn't suddenly appear and actually exists to begin with
+  - Tyrone's strength check to threaten him is now a Terrifying Presence/Intimidation Check
   
  STILL IN THE DARK
   - The Brotherhood Scouts don't all look the same
+ 
+ YOU CAN DEPEND ON ME
+  - Henry's speech check to use your NCR rep to discredit him now have [NCR], as they should
+  - Henry exists at the wrangler to begin with
 
 OTHER:
  - Collectible Mojave Express hats which nets you a nice 1500 XP gain if you find all of them
  - Ice Cold Nuka-Cola is worth 15 caps more than regular bottles
  - All messages declaring someone has died are moved to the upper-left corner instead of interrupting gameplay
- - Renamed Terrifying Presence to Intimidation and you can rob caravans with the perk now
+ - Renamed Terrifying Presence to Intimidation and you can rob caravans with the perk
  - Added a challenge for killing all major Fiend leaders

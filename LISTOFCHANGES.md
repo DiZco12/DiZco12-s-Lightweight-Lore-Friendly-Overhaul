@@ -10,7 +10,7 @@ ADDITIONS AND CHANGES BY LOCATION:
  - When you enter Primm, some Convicts will try to cross the bridge and attack the NCR
  - The section of houses will have convicts around them and dead Primm residents, which will likely draw players' attention
  - There's one extra NCR Trooper guarding the bridge
- - Tyrone doesn't suddenly appear during "Don't Make A Beggar Of Me" and is actually exists to begin with
+ - The Speech check when threatening Johnson for info is now a Terrifying Presence/Intimidation check
 
  NIPTON
  - One of the houses has a unfortunate scene
@@ -47,6 +47,8 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Members of 1st Recon wear 1st Recon armors and use custom-made scoped Hunting Rifles
  - Dixon actually uses his Varmint Rifle
  - Major Dhatri stays still (Taken from Major Dhatri Doesn't Wander﻿)
+ - George's Speech check to threaten him is now an Terrifying Presence/Intimidation check
+ - Noticing Orris fired 3 shots instead of 4 is a Perception check, not an Intelligence check
 
  OTHER AREAS
  - The Nipton road rest stop has a note detailing a moonshine stash
@@ -64,10 +66,20 @@ QUEST CHANGES:
  
  RESTORING HOPE
   - The medicine check when talking to Doctor Alex isn't stupidly easy and now requires 50 Medicine skill
+  
+ I FOUGHT THE LAW
+  - You can take back NCRCF from the Powder Gangers without going through the hoops of helping Eddie first
+  
+ DON'T MAKE A BEGGAR OF ME
+  - Chomps Lewis gets sent to Camp Forlorn Hope when he gets arrested
+  - Tyrone doesn't suddenly appear and actually exists to begin with
+  
+ STILL IN THE DARK
+  - The Brotherhood Scouts don't all look the same
 
 OTHER:
  - Collectible Mojave Express hats which nets you a nice 1500 XP gain if you find all of them
  - Ice Cold Nuka-Cola is worth 15 caps more than regular bottles
  - All messages declaring someone has died are moved to the upper-left corner instead of interrupting gameplay
- - Renamed Terrifying Presence to Intimidation and now you can rob traveling caravans
+ - Renamed Terrifying Presence to Intimidation and you can rob caravans with the perk now
  - Added a challenge for killing all major Fiend leaders

@@ -34,3 +34,8 @@ Alpha 0.1.3
 - Kathleen isn't mysteriously a part of the NCR
 - Removed the Service Knife, it was useless
 - The medicine check in Restoring Hope when talking to Doctor Alex isn't stupidly easy and now requires 50 Medicine skill
+- George's Speech check to threaten him is now an Terrifying Presence/Intimidation check
+- The Brotherhood Scouts in "Still In The Dark" don't all look the same
+- Noticing Orris fired 3 shots instead of 4 is a Perception check, not an Intelligence check
+- You can take back NCRCF without going through the hoops of helping Eddie first
+- Chomps Lewis gets sent to Camp Forlorn Hope when he gets arrested in "Don't Make A Beggar Of Me"

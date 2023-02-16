@@ -39,7 +39,8 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Every Casino and the Lucky 38 Suite have Currency Converters inside
  - Benny isn't a little bitch and will attack you if you shoot at the chairmen
  - The Ultra-Luxe assassin actually has a voice and wears a suit
- - Nero & Big Sal are aggressive
+ - Nero & Big Sal aren't little bitches and attack you if attack Omertas
+ - The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
  
  FREESIDE AND OUTER NEW VEGAS
  - The Greasers in the North Vegas Sewers wear greaser jackets
@@ -75,6 +76,8 @@ QUEST CHANGES:
   - Chomps Lewis gets sent to Camp Forlorn Hope when he gets arrested
   - Tyrone doesn't suddenly appear and actually exists to begin with
   - Tyrone's strength check to threaten him is now a Terrifying Presence/Intimidation Check
+  - Telling Mellissa you turned in Tyrone gives you infamy with the Great Khans
+  - Melissa actually goes to Red Rock Canyon
   
  STILL IN THE DARK
   - The Brotherhood Scouts don't all look the same
@@ -89,3 +92,4 @@ OTHER:
  - All messages declaring someone has died are moved to the upper-left corner instead of interrupting gameplay
  - Renamed Terrifying Presence to Intimidation and you can rob caravans with the perk
  - Added a challenge for killing all major Fiend leaders
+ - Cass' hat should have less clipping issues now

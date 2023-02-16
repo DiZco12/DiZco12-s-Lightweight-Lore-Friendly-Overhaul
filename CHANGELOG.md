@@ -44,3 +44,12 @@ Alpha 0.1.3
 - Nero has the Gomorrah safe room key, forgot about him for some reason
 - Henry's speech check to use your NCR rep to discredit him now have [NCR], as they should
 - Henry exists at the wrangler to begin with
+
+Alpha 0.1.4
+
+- Merchant Containers respawn in 2 days instead of 3
+- The Convicts crossing the bridge in Primm shouldn't spawn in front of you and has been optimized
+- Telling Mellissa you turned in Tyrone gives you infamy with the Great Khans
+- Melissa actually goes to Red Rock Canyon after "Don't Make A Beggar Of Me"
+- The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
+- The extra primm trooper stays behins the sandbags

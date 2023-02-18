@@ -1,0 +1,6 @@
+- Dragbody for their fixed Boone armor meshes and the necklace mesh
+- Butchcassidy118 for the Police Rifle
+- RoyBatty for guiding me on generating .egm files
+- Kateaminer for making the Fallout.wiki page
+- Blueboar for the greaser jacket textures and meshes
+- Blivion1 for the Smooth Criminal Fedora texture

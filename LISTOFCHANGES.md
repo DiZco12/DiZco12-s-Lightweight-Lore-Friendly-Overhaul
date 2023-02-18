@@ -3,6 +3,7 @@ ARMOR/CLOTHING:
  - Companion clothing is now playable and is slightly buffed (Taken from Playable Companion Clothing﻿)
  - The Fedora is now playable
  - Added the Greaser Jacket
+ - Cass' hat should have less clipping issues now
 
 ADDITIONS AND CHANGES BY LOCATION:
  
@@ -41,6 +42,8 @@ ADDITIONS AND CHANGES BY LOCATION:
  - The Ultra-Luxe assassin actually has a voice and wears a suit
  - Nero & Big Sal aren't little bitches and attack you if attack Omertas
  - The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
+ - The picture of James and Catherine from FO3 in Vault 21 now depicts a vault dweller
+ - Kathleen isn't mysteriously a part of the NCR
  
  FREESIDE AND OUTER NEW VEGAS
  - The Greasers in the North Vegas Sewers wear greaser jackets
@@ -51,6 +54,8 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Major Dhatri stays still (Taken from Major Dhatri Doesn't Wander﻿)
  - George's Speech check to threaten him is now an Terrifying Presence/Intimidation check
  - Noticing Orris fired 3 shots instead of 4 is a Perception check, not an Intelligence check
+ - Lieutenant Monroe heads to Camp Mccarran after Boulder City Showdown
+ - Hector can't comment on Sweetie, that's just weird
 
  OTHER AREAS
  - The Nipton road rest stop has a note detailing a moonshine stash
@@ -75,12 +80,15 @@ QUEST CHANGES:
  DON'T MAKE A BEGGAR OF ME
   - Chomps Lewis gets sent to Camp Forlorn Hope when he gets arrested
   - Tyrone doesn't suddenly appear and actually exists to begin with
-  - Tyrone's strength check to threaten him is now a Terrifying Presence/Intimidation Check
+  - Tyrone's Strength check to threaten him is now a Terrifying Presence/Intimidation Check
   - Telling Mellissa you turned in Tyrone gives you infamy with the Great Khans
   - Melissa actually goes to Red Rock Canyon
   
  STILL IN THE DARK
   - The Brotherhood Scouts don't all look the same
+ 
+ COME FLY WITH ME
+  - Chris Haversam won't just run away from you when you tell him you sabatoged the rockets
  
  YOU CAN DEPEND ON ME
   - Henry's speech check to use your NCR rep to discredit him now have [NCR], as they should
@@ -92,4 +100,6 @@ OTHER:
  - All messages declaring someone has died are moved to the upper-left corner instead of interrupting gameplay
  - Renamed Terrifying Presence to Intimidation and you can rob caravans with the perk
  - Added a challenge for killing all major Fiend leaders
- - Cass' hat should have less clipping issues now
+ - Added a challenge for robbing every casino bank, if completed with Wild Wasteland you get a special hat
+ - Some NPCs that had no eyebrows have some now
+ - Limbs exploding or being severed doesn't happen as often

@@ -2,6 +2,6 @@ As shown by the size of the .esm alone, this mod is pretty huge. All changes are
 
 - Adds and restores new items
 - Adds new things to discover and interact with in existing locations
-- Things that are referred to that didn't exist now exist
+- NPC schedule changes
 - Difficulty increases in some areas
 - Basic logical fixes and additions

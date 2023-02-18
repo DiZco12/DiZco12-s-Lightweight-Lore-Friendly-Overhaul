@@ -52,4 +52,14 @@ Alpha 0.1.4
 - Telling Mellissa you turned in Tyrone gives you infamy with the Great Khans
 - Melissa actually goes to Red Rock Canyon after "Don't Make A Beggar Of Me"
 - The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
-- The extra primm trooper stays behins the sandbags
+- The extra primm trooper stays behind the sandbags
+- The 1st Recon Sniper Rifle is in the appropriate formlists now
+- The picture of James and Catherine from FO3 in Vault 21 now depicts a vault dweller
+- General mesh optimization
+- Renamed Stick-Up Kid to Smooth Criminal, and if you have WW when you complete the challenge you get a special hat
+- Renamed Mojave Express Hat Of Godlyness to Mojave Express Hat Of Godliness
+- Created CREDITS.md, I can't believe I waited this long
+- Some NPCs that had no eyebrows have some now
+- Limbs exploding or being severed doesn't happen as often
+- Multiple changes for 0.1.3 weren't added to the list of changes, this has been fixed
+- Cashier room guards respawn now

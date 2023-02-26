@@ -18,12 +18,14 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Not every dead body in Nipton has the same face anymore, and they are now named Nipton Residents
  - Not every Legionary looks the same
  - The Nipton Pit Stop Ambush has the previous victims nearby; the boss also has a .44 magnum
+ - Restored Vulpes' Pre-Release appearance
 
  NOVAC
  - Added a Mechanic who can repair your stuff near the garage
  - Added 4 new guards who patrol the area
  - Ranger Andy can be seen roaming around outside
- - No-bark Noonan actually has Ol' Sticky, and pulls it out when he threatens you
+ - No-Bark Noonan actually has Ol' Sticky, and pulls it out when he threatens you
+ - No-Bark’s Strength check to “make him talk” is an Intimidation check
  - Chris Haversam gets his own hotel room after moving
 
  NCRCF & GOODSPRINGS
@@ -56,12 +58,16 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Noticing Orris fired 3 shots instead of 4 is a Perception check, not an Intelligence check
  - Lieutenant Monroe heads to Camp Mccarran after Boulder City Showdown
  - Hector can't comment on Sweetie, that's just weird
+ - The ghoul guards at the Old Mormon Fort with human voices actually are human
 
  OTHER AREAS
  - The Nipton road rest stop has a note detailing a moonshine stash
  - The Nevada Highway Patrol Station has a Terminal and Police Pistol
  - Malcolm Holmes hangs out at the bar in the Mojave Outpost after talking to him and becomes a merchant
  - Alexander has less stock, and his guard has Combat Armor
+ 
+ ALL AREAS
+ - A Random Encounter System similar to Fallout 3's, with 18 locations for them to trigger
 
 WEAPONS:
  - Police Assault Rifle
@@ -91,15 +97,18 @@ QUEST CHANGES:
   - Chris Haversam won't just run away from you when you tell him you sabatoged the rockets
  
  YOU CAN DEPEND ON ME
-  - Henry's speech check to use your NCR rep to discredit him now have [NCR], as they should
+  - Henry's reputation checks to use your NCR rep to discredit him now have [NCR], as they should
   - Henry exists at the wrangler to begin with
 
 OTHER:
- - Collectible Mojave Express hats which nets you a nice 1500 XP gain if you find all of them
+ - Collectible Mojave Express hats which nets you a nice 500 XP if you find all of them
  - Ice Cold Nuka-Cola is worth 15 caps more than regular bottles
  - All messages declaring someone has died are moved to the upper-left corner instead of interrupting gameplay
  - Renamed Terrifying Presence to Intimidation and you can rob caravans with the perk
  - Added a challenge for killing all major Fiend leaders
  - Added a challenge for robbing every casino bank, if completed with Wild Wasteland you get a special hat
+ - Added a challenge for freeing 25 slaves called "Lincoln's Protégé" (Don't worry, there's slaves in Random Encounters)
  - Some NPCs that had no eyebrows have some now
  - Limbs exploding or being severed doesn't happen as often
+ - Added the Armor Workshop perk, which adds the ability to upgrade certain armors to their reinforced variants
+ - You can now get Plastic Surgery from either Doc Mitchell, Doctor Usanagi, or Doc Henry

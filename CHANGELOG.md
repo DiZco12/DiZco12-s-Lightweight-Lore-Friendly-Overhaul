@@ -46,8 +46,6 @@ Alpha 0.1.3
 - Henry exists at the wrangler to begin with
 
 Alpha 0.1.4
-
-- Merchant Containers respawn in 2 days instead of 3
 - The Convicts crossing the bridge in Primm shouldn't spawn in front of you and has been optimized
 - Telling Mellissa you turned in Tyrone gives you infamy with the Great Khans
 - Melissa actually goes to Red Rock Canyon after "Don't Make A Beggar Of Me"
@@ -63,3 +61,14 @@ Alpha 0.1.4
 - Limbs exploding or being severed doesn't happen as often
 - Multiple changes for 0.1.3 weren't added to the list of changes, this has been fixed
 - Cashier room guards respawn now
+- Added the Armor Workshop perk, which adds the ability to upgrade certain armors to their reinforced variants
+- Fixed Chris Haversam's door being inaccessable
+- The ghoul guards at the Old Mormon Fort with human voices actually are human
+- A Random Encounter System like Fallout 3's, with 5 unique encounters and 18 repeatable encounters with up to 4 variants for each (More to come)
+- Restored Vulpes' Pre-Release appearance
+- The Greaser Jacket uses the Tunnel Snake outfit icon now
+- No-Bark’s Strength check to “make him talk” is an Intimidation check
+- Fixed a mistake that may have decreased performance
+- Merged my New Vegas Plastic Surgeons mod into this one
+- Added a new challenge "Lincoln's Protégé"
+- Packed everything into .bsa files

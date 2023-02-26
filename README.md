@@ -5,3 +5,4 @@ As shown by the size of the .esm alone, this mod is pretty huge. All changes are
 - NPC schedule changes
 - Difficulty increases in some areas
 - Basic logical fixes and additions
+- A Random Encounter system

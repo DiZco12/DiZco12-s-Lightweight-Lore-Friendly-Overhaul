@@ -72,3 +72,10 @@ Alpha 0.1.4
 - Merged my New Vegas Plastic Surgeons mod into this one
 - Added a new challenge "Lincoln's Protégé"
 - Packed everything into .bsa files
+
+Alpha 0.1.5
+- Removed TTW changes, forwarded YUP changes and put NPC changes in their own .esp because of this
+- Life Giver now as 3 ranks as it was before release, and gives 25 HP per rank rather than 30
+- Removed the damage buffs from Confirmed Bachelor, Lady Killer, Cherchez La Femme, and Black Widow
+- Added the Dense Muscles perk
+- Frakes' body can be found with his unique Service Rifle that does +25% damage to Lakelurks in the Camp Guardian caves, the Lakelurk King is also now Level 25

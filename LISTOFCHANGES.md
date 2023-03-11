@@ -42,7 +42,6 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Every Casino and the Lucky 38 Suite have Currency Converters inside
  - Benny isn't a little bitch and will attack you if you shoot at the chairmen
  - The Ultra-Luxe assassin actually has a voice and wears a suit
- - Nero & Big Sal aren't little bitches and attack you if attack Omertas
  - The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
  - The picture of James and Catherine from FO3 in Vault 21 now depicts a vault dweller
  - Kathleen isn't mysteriously a part of the NCR
@@ -52,13 +51,16 @@ ADDITIONS AND CHANGES BY LOCATION:
  - Cook-Cook is not a pushover anymore and his dogs aren't either
  - Julie Farkas doesn't go silent after saying goodbye
  - Members of 1st Recon wear 1st Recon armors and use custom-made scoped Hunting Rifles
- - Dixon actually uses his Varmint Rifle
  - Major Dhatri stays still (Taken from Major Dhatri Doesn't Wander﻿)
  - George's Speech check to threaten him is now an Terrifying Presence/Intimidation check
  - Noticing Orris fired 3 shots instead of 4 is a Perception check, not an Intelligence check
  - Lieutenant Monroe heads to Camp Mccarran after Boulder City Showdown
  - Hector can't comment on Sweetie, that's just weird
  - The ghoul guards at the Old Mormon Fort with human voices actually are human
+ 
+ CAMP GUARDIAN CAVES
+ - Frakes' body can be found with his unique Service Rifle that does +25% damage to Lakelurks
+ - The Lakelurk King is now Level 25, and has +100 HP
 
  OTHER AREAS
  - The Nipton road rest stop has a note detailing a moonshine stash
@@ -72,6 +74,7 @@ ADDITIONS AND CHANGES BY LOCATION:
 WEAPONS:
  - Police Assault Rifle
  - 1st Recon Hunting Rifle
+ - Frakes' Revenge
 
 QUEST CHANGES:
  YOUNG HEARTS
@@ -92,9 +95,6 @@ QUEST CHANGES:
   
  STILL IN THE DARK
   - The Brotherhood Scouts don't all look the same
- 
- COME FLY WITH ME
-  - Chris Haversam won't just run away from you when you tell him you sabatoged the rockets
  
  YOU CAN DEPEND ON ME
   - Henry's reputation checks to use your NCR rep to discredit him now have [NCR], as they should

@@ -1,8 +1,1 @@
-As shown by the size of the .esm alone, this mod is pretty huge. All changes are documented in LISTOFCHANGES.md, but here's a basic summary:
-
-- Adds and restores new items
-- Adds new things to discover and interact with in existing locations
-- NPC schedule changes
-- Difficulty increases in some areas
-- Basic logical fixes and additions
-- A Random Encounter system
+I warn you, this mod isn't your standard overhaul. Most overhauls only focus on rebalancing the game. This mod wants the game to make more sense and be how I would want it. Logical fixes, dialogue changes, quest changes, and a Random Encounter system are a fraction of what this mod does. For example, Melissa not going back to Red Rock Canyon after completing her quest or 1st Recon not wearing their uniforms nor using scopes. This mod fixes that!

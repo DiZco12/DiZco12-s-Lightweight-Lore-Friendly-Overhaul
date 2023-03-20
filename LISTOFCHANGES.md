@@ -83,7 +83,7 @@
 ## Restoring Hope
  - The medicine check when talking to Doctor Alex isn't stupidly easy and requires 50 Medicine skill
   
- I FOUGHT THE LAW
+## I Fought The Law
  - You can take back NCRCF from the Powder Gangers without going through the hoops of helping Eddie first
   
 ## Don't Make A Beggar Of Me

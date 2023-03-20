@@ -9,6 +9,6 @@
 - OmnipotentFNarr for helping me in my scripting troubles
 
 
-VOICE ACTORS 
+# Voice Actors
 - Adoravke - Aussie
 - A Raven Of Many Hats - Slave Trader

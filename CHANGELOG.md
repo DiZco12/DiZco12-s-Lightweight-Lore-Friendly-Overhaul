@@ -1,7 +1,7 @@
 # Alpha 0.1.1
 - Fixed the player not getting merchants' caps after robbing them nor removing theirs
 
-# Alpha 0.1.1.1
+## Alpha 0.1.1.1
 - Actually included facegen this time
 
 # Alpha 0.1.2
@@ -69,7 +69,7 @@
 - Added a new challenge "Lincoln's Protégé"
 - Packed everything into .bsa files
 
-# Alpha 0.1.4.5
+## Alpha 0.1.4.5
 - Removed TTW changes, forwarded YUP changes and put NPC changes in their own .esp because of this
 - Life Giver now as 3 ranks as it was before release, and gives 25 HP per rank rather than 30
 - Removed the damage buffs from Confirmed Bachelor, Lady Killer, Cherchez La Femme, and Black Widow
@@ -77,3 +77,8 @@
 - Frakes' body can be found with his unique Service Rifle that does +25% damage to Lakelurks in the Camp Guardian caves, the Lakelurk King is also now Level 25
 - Testing out Fisto cripples the Player's legs (for immersion)
 - WIP Overhaul of the Fiends to level more like Fallout 4's Raiders
+
+# Alpha 0.2
+- Renamed the Fire Bomb to Molotov Cocktail
+- Gomorrah Guards have a chance to carry .45 Auto Submachine guns
+- Killing Yes Man locks you out of the Independent Ending, as it should

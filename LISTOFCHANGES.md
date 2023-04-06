@@ -3,7 +3,6 @@
  - Companion clothing is now playable and is slightly buffed (Taken from Playable Companion Clothing﻿)
  - The Fedora is now playable
  - Added the Greaser Jacket
- - Cass' hat should have less clipping issues now
 
 # Additions And Changes By Location
  
@@ -12,6 +11,7 @@
  - The section of houses will have convicts around them and dead Primm residents, which will likely draw players' attention
  - There's one extra NCR Trooper guarding the bridge
  - The Speech check when threatening Johnson for info is now a Terrifying Presence/Intimidation check
+ - The Escaped Convicts don't have absurd amounts of NCR Money
 
 ## Nipton
  - One of the houses has a unfortunate scene
@@ -45,6 +45,8 @@
  - The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
  - The picture of James and Catherine from FO3 in Vault 21 now depicts a vault dweller
  - Kathleen isn't mysteriously a part of the NCR
+ - Gomorrah Guards have a chance to carry .45 Auto Submachine guns
+ - Killing Yes Man locks you out of the Independent Ending, as it should
  
 ## Freeside & Outer Vegas
  - The Greasers in the North Vegas Sewers wear greaser jackets
@@ -72,11 +74,13 @@
  - A Random Encounter System similar to Fallout 3's, with 18 locations for them to trigger
 
 # Weapons
- - Police Assault Rifle
- - 1st Recon Hunting Rifle
- - Frakes' Revenge
+ - Added the Police Assault Rifle
+ - Added the 1st Recon Hunting Rifle
+ - Added the Frakes' Revenge
+ - Renamed the Fire Bomb to Molotov Cocktail
 
 # Quest Changes
+
 ## Young Hearts
  - Janet's name is Caravaneer before you find her identity, and the quest marker pointing to her has been removed
  

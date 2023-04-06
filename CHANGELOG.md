@@ -79,6 +79,11 @@
 - WIP Overhaul of the Fiends to level more like Fallout 4's Raiders
 
 # Alpha 0.2
-- Renamed the Fire Bomb to Molotov Cocktail
+- Renamed the Fire Bomb to Molotov Cocktail and it functions more like one
 - Gomorrah Guards have a chance to carry .45 Auto Submachine guns
 - Killing Yes Man locks you out of the Independent Ending, as it should
+- Cass' Outfit now has a male version and is playable
+- The Escaped Convicts in Primm don't have absurd amounts of NCR Money
+- The Legate's armor is playable
+- Renamed Maize to Corn
+- The Patient Gown is now worth 15 caps and you start with it at the beginning of the game

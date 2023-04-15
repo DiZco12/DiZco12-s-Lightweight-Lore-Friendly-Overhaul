@@ -3,6 +3,9 @@
  - Companion clothing is now playable and is slightly buffed (Taken from Playable Companion Clothing﻿)
  - The Fedora is now playable
  - Added the Greaser Jacket
+ - Added the Wasteland Vest Outfit and distributed it
+ - The Patient Gown is now worth 15 caps and you start with it at the beginning of the game
+ - The Legate's armor is playable
 
 # Additions And Changes By Location
  
@@ -59,6 +62,7 @@
  - Lieutenant Monroe heads to Camp Mccarran after Boulder City Showdown
  - Hector can't comment on Sweetie, that's just weird
  - The ghoul guards at the Old Mormon Fort with human voices actually are human
+ - Gave Arcade his pre-release appearance
  
 ## Camp Guardian Caves
  - Frakes' body can be found with his unique Service Rifle that does +25% damage to Lakelurks
@@ -78,6 +82,7 @@
  - Added the 1st Recon Hunting Rifle
  - Added the Frakes' Revenge
  - Renamed the Fire Bomb to Molotov Cocktail
+ - Unique Weapons are moddable (Taken From Unique Weapons Upgradable)
 
 # Quest Changes
 
@@ -116,3 +121,5 @@
  - Limbs exploding or being severed doesn't happen as often
  - Added the Armor Workshop perk, which adds the ability to upgrade certain armors to their reinforced variants
  - You can now get Plastic Surgery from either Doc Mitchell, Doctor Usanagi, or Doc Henry
+ - Renamed Maize to Corn
+ - Added the New Vegas Haircut (Thanks Ding2Ding!)

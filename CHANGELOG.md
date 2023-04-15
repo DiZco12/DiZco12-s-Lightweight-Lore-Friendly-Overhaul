@@ -79,6 +79,7 @@
 - WIP Overhaul of the Fiends to level more like Fallout 4's Raiders
 
 # Alpha 0.2
+- Jumped a few versions ahead, I feel like the mod is progressing faster than expected
 - Renamed the Fire Bomb to Molotov Cocktail and it functions more like one
 - Gomorrah Guards have a chance to carry .45 Auto Submachine guns
 - Killing Yes Man locks you out of the Independent Ending, as it should
@@ -87,3 +88,8 @@
 - The Legate's armor is playable
 - Renamed Maize to Corn
 - The Patient Gown is now worth 15 caps and you start with it at the beginning of the game
+- Added the Wasteland Vest Outfit and distributed it
+- Started Unique Weapons Upgradable Integration
+- Added the New Vegas Haircut (Thanks Ding2Ding!)
+- Gave Arcade his pre-release appearance
+- Rewrote Scripts to be more efficient

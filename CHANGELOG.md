@@ -78,7 +78,7 @@
 - Testing out Fisto cripples the Player's legs (for immersion)
 - WIP Overhaul of the Fiends to level more like Fallout 4's Raiders
 
-# Alpha 0.2
+# Beta 0.2
 - Jumped a few versions ahead, I feel like the mod is progressing faster than expected
 - Renamed the Fire Bomb to Molotov Cocktail and it functions more like one
 - Gomorrah Guards have a chance to carry .45 Auto Submachine guns
@@ -93,3 +93,6 @@
 - Added the New Vegas Haircut (Thanks Ding2Ding!)
 - Gave Arcade his pre-release appearance
 - Rewrote Scripts to be more efficient
+- Added a TTW Patch
+- Added the Legion Combat Armor, which can be found the Legion Safehouse
+- Veronica's INT check now requires you to really stupid to fail it

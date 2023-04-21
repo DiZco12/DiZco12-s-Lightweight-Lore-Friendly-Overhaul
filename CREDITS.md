@@ -7,6 +7,7 @@
 - Ding2Ding for the New Vegas Haircut
 - Dragbody for their fixed Boone armor meshes and the necklace mesh
 - RoyBatty for guiding me on generating .egm files
+- SGTbayk47 for the Legion Combat Armor
 
 # Voice Actors
 - Adoravke - Noah

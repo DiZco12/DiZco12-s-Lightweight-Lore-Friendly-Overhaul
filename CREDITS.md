@@ -6,6 +6,7 @@
 - Clanky4 for the talking creatures resource
 - Ding2Ding for the New Vegas Haircut
 - Dragbody for their fixed Boone armor meshes and the necklace mesh
+- Lorkh for the Breathing Mask Normal Map
 - RoyBatty for guiding me on generating .egm files
 - SGTbayk47 for the Legion Combat Armor
 

@@ -96,3 +96,11 @@
 - Added a TTW Patch
 - Added the Legion Combat Armor, which can be found the Legion Safehouse
 - Veronica's INT check now requires you to really stupid to fail it
+
+# Beta 0.3
+- The Mojave Express Hat has gotten a facelift, new texture and normal map
+- The New Vegas Medical Clinic now has an extra guard outside
+- The Breathing Mask now fits the face of people who wear it and has a new normal map (Take From Lonesome Road Breathing Mask Redone)
+- Added Explosive .357 Rounds because, why not?
+- Added an FOMOD for easier addition of patches and optional files
+- Added an INI for options some people may want to use

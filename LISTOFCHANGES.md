@@ -4,11 +4,10 @@
  - Added the Wasteland Vest Outfit and distributed it
  - Companion clothing is now playable and is slightly buffed (Taken from Playable Companion Clothing﻿)
  - Great Khan Armors have fingerless gloves
+ - The Breathing Mask now fits the face of people who wear it and has a new normal map (Take From Lonesome Road Breathing Mask Redone)
  - The Fedora is now playable
  - The Legate's armor is playable
  - The Patient Gown is now worth 15 caps and you start with it at the beginning of the game
-
-
 
 # Additions And Changes By Location
  
@@ -65,6 +64,7 @@
  - Noticing Orris fired 3 shots instead of 4 is a Perception check, not an Intelligence check
  - The ghoul guards at the Old Mormon Fort with human voices actually are human
  - The Greasers in the North Vegas Sewers wear greaser jackets
+ - The New Vegas Medical Clinic now has an extra guard outside
  
 ## Camp Guardian Caves
  - Frakes' body can be found with his unique Service Rifle that does +25% damage to Lakelurks
@@ -112,6 +112,7 @@
  - Henry exists at the wrangler to begin with
 
 # Other
+- Added Explosive .357 Rounds because, why not?
 - Added a challenge for freeing 25 slaves called "Lincoln's Protégé" (Don't worry, there's slaves in Random Encounters)
 - Added a challenge for killing all major Fiend leaders
 - Added a challenge for robbing every casino bank, if completed with Wild Wasteland you get a special hat

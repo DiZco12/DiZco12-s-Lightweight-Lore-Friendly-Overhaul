@@ -103,4 +103,11 @@
 - The Breathing Mask now fits the face of people who wear it and has a new normal map (Take From Lonesome Road Breathing Mask Redone)
 - Added Explosive .357 Rounds because, why not?
 - Added an FOMOD for easier addition of patches and optional files
-- Added an INI for options some people may want to use
+- Added an INI
+- Made Police Rifle intergration optional in the INI
+- Made Wasteland Vest intergration optional in the INI
+- Random Encounters are able to be toggled in the INI
+- Added the "Outer Worlds Style Saving" option in the INI
+- Renamed the terminal in the Nevada Highway Patrol Station
+- You can now ask Cliff Briscoe to clean up your Novac room
+- Facegen actually works now due to the appearances being included in the ESM as well

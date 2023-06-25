@@ -32,6 +32,8 @@
  - No-Bark Noonan actually has Ol' Sticky, and pulls it out when he threatens you
  - No-Bark’s Strength check to “make him talk” is an Intimidation check
  - Ranger Andy can be seen roaming around outside
+ - You can now ask Cliff Briscoe to clean up your Novac room
+ 
 ## Goodsprings & NCRCF
  - Doc Mitchell wears the Wasteland Doctor Outfit
  - Eddie doesn't somehow have a plasma pistol

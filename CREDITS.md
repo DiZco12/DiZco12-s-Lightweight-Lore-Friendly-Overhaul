@@ -10,11 +10,14 @@
 - RoyBatty for guiding me on generating .egm files
 - SGTbayk47 for the Legion Combat Armor
 
+# Systems / Scripts
+- Bethesda for the Random Encounter script from FO3 that I used for help making my own
+- OmnipotentFNarr for helping me in my scripting troubles
+- Radioactiv for his Keypad Numerical Lock
+
 # Voice Actors
 - Adoravke - Noah
 - A Raven Of Many Hats - Slave Trader
 
 # Other
-- Bethesda for the Random Encounter script from FO3 that I used for help making my own
 - Independent Fallout Wiki Staff for helping me make the wiki page
-- OmnipotentFNarr for helping me in my scripting troubles

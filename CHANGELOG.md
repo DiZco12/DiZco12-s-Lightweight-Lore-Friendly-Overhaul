@@ -111,3 +111,6 @@
 - Renamed the terminal in the Nevada Highway Patrol Station
 - You can now ask Cliff Briscoe to clean up your Novac room
 - Facegen actually works now due to the appearances being included in the ESM as well
+- Added an Character Kit Remake patch
+- Fixed Log Spam due to Random Encounters
+- Removed the Patient Gown feature, it was too problematic

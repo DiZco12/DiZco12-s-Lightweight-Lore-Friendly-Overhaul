@@ -114,3 +114,6 @@
 - Added an Character Kit Remake patch
 - Fixed Log Spam due to Random Encounters
 - Removed the Patient Gown feature, it was too problematic
+- The Sunset Sarsaparilla Enthusiast now has a matching hat
+- The Police Rifle now has mods
+- Added 1 new encounter

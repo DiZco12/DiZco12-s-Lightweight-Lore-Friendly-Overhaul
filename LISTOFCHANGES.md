@@ -7,7 +7,7 @@
  - The Breathing Mask now fits the face of people who wear it and has a new normal map (Take From Lonesome Road Breathing Mask Redone)
  - The Fedora is now playable
  - The Legate's armor is playable
- - The Patient Gown is now worth 15 caps and you start with it at the beginning of the game
+ - The Patient Gown is now worth 15 caps
 
 # Additions And Changes By Location
  

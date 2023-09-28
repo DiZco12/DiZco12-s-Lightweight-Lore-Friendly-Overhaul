@@ -6,14 +6,15 @@
 - Clanky4 for the talking creatures resource
 - Ding2Ding for the New Vegas Haircut
 - Dragbody for their fixed Boone armor meshes and the necklace mesh
+- Hagyjalbeken for their headgear pack
 - Lorkh for the Breathing Mask Normal Map
 - RoyBatty for guiding me on generating .egm files
 - SGTbayk47 for the Legion Combat Armor
 
 # Systems / Scripts
 - Bethesda for the Random Encounter script from FO3 that I used for help making my own
+- GardanothDaedraBlood for the Desert Riot Gear Assets Pack
 - OmnipotentFNarr for helping me in my scripting troubles
-- Radioactiv for his Keypad Numerical Lock
 
 # Voice Actors
 - Adoravke - Noah

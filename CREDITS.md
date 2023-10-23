@@ -16,9 +16,5 @@
 - GardanothDaedraBlood for the Desert Riot Gear Assets Pack
 - OmnipotentFNarr for helping me in my scripting troubles
 
-# Voice Actors
-- Adoravke - Noah
-- A Raven Of Many Hats - Slave Trader
-
 # Other
 - Independent Fallout Wiki Staff for helping me make the wiki page

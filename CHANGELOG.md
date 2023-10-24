@@ -1,3 +1,5 @@
+THIS IS NO LONGER BEING UPDATED, NEXUS HAS THE CHANGELOGS NOW
+
 # Alpha 0.1.1
 - Fixed the player not getting merchants' caps after robbing them nor removing theirs
 

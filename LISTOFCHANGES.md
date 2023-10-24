@@ -47,7 +47,6 @@
  - Every Casino's cashier room can be robbed for caps and have guards outside, the keys can be found on the appropriate people
  - Gomorrah Guards have a chance to carry .45 Auto Submachine guns
  - Kathleen isn't mysteriously a part of the NCR
- - Killing Yes Man locks you out of the Independent Ending, as it should
  - Raised all Casino max winnings by 5000
  - Restored the 2 NCR Trooper sunbathers on the top of the embassy
  - The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
@@ -86,7 +85,6 @@
  - Added Frakes' Revenge
  - Added the Police Assault Rifle
  - Renamed the Fire Bomb to Molotov Cocktail
- - Unique Weapons are moddable (Taken From Unique Weapons Upgradable)
 
 # Quest Changes
 

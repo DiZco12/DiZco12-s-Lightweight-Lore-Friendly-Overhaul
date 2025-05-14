@@ -1,5 +1,3 @@
-THIS IS NO LONGER BEING UPDATED, NEXUS HAS THE CHANGELOGS NOW
-
 # Alpha 0.1.1
 - Fixed the player not getting merchants' caps after robbing them nor removing theirs
 
@@ -99,7 +97,7 @@ THIS IS NO LONGER BEING UPDATED, NEXUS HAS THE CHANGELOGS NOW
 - Added the Legion Combat Armor, which can be found the Legion Safehouse
 - Veronica's INT check now requires you to really stupid to fail it
 
-# Beta 0.3
+# 1.0
 - The Mojave Express Hat has gotten a facelift, new texture and normal map
 - The New Vegas Medical Clinic now has an extra guard outside
 - The Breathing Mask now fits the face of people who wear it and has a new normal map (Take From Lonesome Road Breathing Mask Redone)
@@ -119,3 +117,26 @@ THIS IS NO LONGER BEING UPDATED, NEXUS HAS THE CHANGELOGS NOW
 - The Sunset Sarsaparilla Enthusiast now has a matching hat
 - The Police Rifle now has mods
 - Added 1 new encounter
+
+# 1.1
+- Removed Courier's Stash masters
+- Reverted the Yes Man change
+- UWU isn't included anymore, felt like feature creep
+
+# 1.2
+- Removed all appearance altering changes (feature creep)
+- Removed the Kathleen change
+- Removed the Jackal Boss change, due to conflicts with content mods reusing the form
+- The Young Hearts change didn't work properly, so it has been removed
+- Removed the casino winning limit change, stewie's tweaks does it better
+- Removed the Great Khan armor change (feature creep)
+- Removed the vegas haircut (feature creep)
+- Removed the changes to karma and limb dismemberment 
+- Removed the changes to the Nevada Highway Patrol Station (feature creep)
+- Removed the maize change (unnecessary)
+- Removed the Fire Bomb change (unnecessary)
+- Removed the change to death messages, other mods do it better
+- Removed the change to the Escaped Convicts' inventories (unnecessary)
+- Removed the moonshine stash (unnecessary)
+- Removed a bunch of unused dialogue
+- Various Random Encounter fixes

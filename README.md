@@ -3,6 +3,3 @@ Most overhauls only focus on rebalancing the game. This one modifies the game to
 
 ## Installation
 Install the .zip via MO2/Vortex or if you're a caveman, extract the .zip to the Data folder
-
-## Support/Discord
-If you have a bug to report, want to be notified when there's an update, or just want to hang out, join my Discord: https://discord.gg/JH7aYPzqDK

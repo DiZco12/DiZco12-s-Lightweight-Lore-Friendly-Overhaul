@@ -3,7 +3,6 @@
  - Added the Legion Combat Armor, which can be found the Legion Safehouse
  - Added the Wasteland Vest Outfit and distributed it
  - Companion clothing is now playable and is slightly buffed (Taken from Playable Companion Clothing﻿)
- - Great Khan Armors have fingerless gloves
  - The Breathing Mask now fits the face of people who wear it and has a new normal map (Take From Lonesome Road Breathing Mask Redone)
  - The Fedora is now playable
  - The Legate's armor is playable
@@ -19,11 +18,8 @@
  - When you enter Primm, some Convicts will try to cross the bridge and attack the NCR
 
 ## Nipton
- - Not every dead body has the same face anymore, and they are now named Nipton Residents
- - Not every Legionary looks the same
  - One of the houses has a unfortunate scene
- - Restored Vulpes' Pre-Release appearance
- - The Nipton Pit Stop Ambush has the previous victims nearby; the boss also has a .44 magnum
+ - The Nipton Pit Stop Ambush has the previous victims nearby
 
 ## Novac
  - Added 4 new guards who patrol the area
@@ -46,8 +42,6 @@
  - Every Casino and the Lucky 38 Suite have Currency Converters inside
  - Every Casino's cashier room can be robbed for caps and have guards outside, the keys can be found on the appropriate people
  - Gomorrah Guards have a chance to carry .45 Auto Submachine guns
- - Kathleen isn't mysteriously a part of the NCR
- - Raised all Casino max winnings by 5000
  - Restored the 2 NCR Trooper sunbathers on the top of the embassy
  - The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
  - The picture of James and Catherine from FO3 in Vault 21 now depicts a vault dweller
@@ -55,15 +49,13 @@
  
 ## Freeside & Outer Vegas
  - Cook-Cook is not a pushover anymore and his dogs aren't either
- - Gave Arcade his pre-release appearance
  - George's Speech check to threaten him is now an Terrifying Presence/Intimidation check
  - Hector can't comment on Sweetie, that's just weird
  - Julie Farkas doesn't go silent after saying goodbye
  - Lieutenant Monroe heads to Camp Mccarran after Boulder City Showdown
- - Major Dhatri stays still (Taken from Major Dhatri Doesn't Wander )
+ - Major Dhatri stays still (Taken from Major Dhatri Doesn't Wander)
  - Members of 1st Recon wear 1st Recon armors and use custom-made scoped Hunting Rifles
  - Noticing Orris fired 3 shots instead of 4 is a Perception check, not an Intelligence check
- - The ghoul guards at the Old Mormon Fort with human voices actually are human
  - The Greasers in the North Vegas Sewers wear greaser jackets
  - The New Vegas Medical Clinic now has an extra guard outside
  
@@ -74,8 +66,6 @@
 ## Other Areas
  - Alexander has less stock, and his guard has Combat Armor
  - Malcolm Holmes hangs out at the bar in the Mojave Outpost after talking to him and becomes a merchant
- - The Nevada Highway Patrol Station has a Terminal and Police Pistol
- - The Nipton road rest stop has a note detailing a moonshine stash
  
 ## Entire Mojave Wasteland
  - A Random Encounter System similar to Fallout 3's, with 18 locations for them to trigger
@@ -84,12 +74,8 @@
  - Added the 1st Recon Hunting Rifle
  - Added Frakes' Revenge
  - Added the Police Assault Rifle
- - Renamed the Fire Bomb to Molotov Cocktail
 
 # Quest Changes
-
-## Young Hearts
- - Janet's name is Caravaneer before you find her identity, and the quest marker pointing to her has been removed
  
 ## Restoring Hope
  - The medicine check when talking to Doctor Alex isn't stupidly easy and requires 50 Medicine skill
@@ -103,9 +89,6 @@
  - Telling Mellissa you turned in Tyrone gives you infamy with the Great Khans
  - Tyrone doesn't suddenly appear and actually exists to begin with
  - Tyrone's Strength check to threaten him is now a Terrifying Presence/Intimidation Check
-  
-## Still In The Dark
- - The Brotherhood Scouts don't all look the same
  
 ## You Can Depend On Me
  - Henry's reputation checks to use your NCR rep to discredit him now have [NCR], as they should
@@ -117,13 +100,8 @@
 - Added a challenge for killing all major Fiend leaders
 - Added a challenge for robbing every casino bank, if completed with Wild Wasteland you get a special hat
 - Added the Armor Workshop perk, which adds the ability to upgrade certain armors to their reinforced variants
-- Added the New Vegas Haircut (Thanks Ding2Ding!)
-- All messages declaring someone has died are moved to the upper-left corner instead of interrupting gameplay
 - Collectible Mojave Express hats which nets you a nice 500 XP if you find all of them
 - Ice Cold Nuka-Cola is worth 15 caps more than regular bottles
-- Limbs exploding or being severed doesn't happen as often
-- Renamed Maize to Corn
 - Renamed Terrifying Presence to Intimidation and you can rob caravans with the perk
-- Some NPCs that had no eyebrows have some now
 - Veronica's INT check now requires you to really stupid to fail it
 - You can now get Plastic Surgery from either Doc Mitchell, Doctor Usanagi, or Doc Henry

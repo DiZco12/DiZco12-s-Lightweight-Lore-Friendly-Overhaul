@@ -140,3 +140,7 @@
 - Removed the moonshine stash (unnecessary)
 - Removed a bunch of unused dialogue
 - Various Random Encounter fixes
+- Removed Outer Worlds styled saving (feature creep)
+- Removed the NCR sunbathers (feature creep)
+- Removed the Police Assault Rifle (feature creep, will be featured in a future mod)
+- Removed the Wasteland Vest Outfit (unnecessary)

@@ -1,7 +1,6 @@
 # Armor/Clothing
  - Added the Greaser Jacket
  - Added the Legion Combat Armor, which can be found the Legion Safehouse
- - Added the Wasteland Vest Outfit and distributed it
  - Companion clothing is now playable and is slightly buffed (Taken from Playable Companion Clothing﻿)
  - The Breathing Mask now fits the face of people who wear it and has a new normal map (Take From Lonesome Road Breathing Mask Redone)
  - The Fedora is now playable
@@ -11,7 +10,6 @@
 # Additions And Changes By Location
  
 ## Primm
- - The Escaped Convicts don't have absurd amounts of NCR Money
  - The section of houses will have convicts around them and dead Primm residents, which will likely draw players' attention
  - The Speech check when threatening Johnson for info is now a Terrifying Presence/Intimidation check
  - There's one extra NCR Trooper guarding the bridge
@@ -34,7 +32,7 @@
  - Doc Mitchell wears the Wasteland Doctor Outfit
  - Eddie doesn't somehow have a plasma pistol
  - Meyers actually has a schedule in the NCRCF
- - NCRCF's Admin Room has a Police Rifle, Police Pistol, and 3 Police Batons
+ - NCRCF's Admin Room has a Police Pistol and 3 Police Batons
  - Sergeant Lee sticks around after you help him in the siege
 
 ## The Strip
@@ -42,7 +40,6 @@
  - Every Casino and the Lucky 38 Suite have Currency Converters inside
  - Every Casino's cashier room can be robbed for caps and have guards outside, the keys can be found on the appropriate people
  - Gomorrah Guards have a chance to carry .45 Auto Submachine guns
- - Restored the 2 NCR Trooper sunbathers on the top of the embassy
  - The male bathers in the Ultra-Luxe don't swim in T-Shirts and if you have _those_ mods, bathers won't be naked
  - The picture of James and Catherine from FO3 in Vault 21 now depicts a vault dweller
  - The Ultra-Luxe assassin actually has a voice and wears a suit
@@ -73,7 +70,6 @@
 # Weapons
  - Added the 1st Recon Hunting Rifle
  - Added Frakes' Revenge
- - Added the Police Assault Rifle
 
 # Quest Changes
  
